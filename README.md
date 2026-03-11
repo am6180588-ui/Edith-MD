@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=70&pause=500&color=008080&center=true&width=1150&height=200&lines=PLEASE-FORK-STAR-BOT-REPO" alt="Typing SVG" /></a>
   </div>
-<a><img src='https://ik.imagekit.io/mrshaban/IMG-20250808-WA0034.jpg?'/></a>
+<a><img src='https://i.ibb.co/QFvXjtgf/file-00000000b7607208b3cf2ed83cb20148.png
 
 <p align="center">
   <a href="https://github.com/Bandah-E-Ali"><img title="Developer" src="https://img.shields.io/badge/Author-Bandaheali-FF00FF.svg?style=big-square&logo=github" /></a>
