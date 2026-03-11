@@ -1,12 +1,12 @@
 /*
-   ✦ ✦ ✦   E D I T H - M D   ✦ ✦ ✦
+   ✦ ✦ ✦  M A C O M A L I K - M D   ✦ ✦ ✦
 
 ─────────────────────────────────────────────────────────────
-📛 Project   : Edith-MD
-👤 Creator   : Bandaheali
+📛 Project   : MARCO MALIK-MD
+👤 Creator   : MARCO MALIK
 🌐 GitHub    : https://github.com/Bandah-E-Ali
 📱 Contact   : https://t.me/@bandaheali
-📢 Channel   : https://whatsapp.com/channel/0029VajGHyh2phHOH5zJl73P
+📢 CHANNEL   : https://whatsapp.com/channel/0029VbCqLaWKLaHrmerXVO1w
 🗓 Release   : 24 • November • 2025 | 02:00 PM
 ─────────────────────────────────────────────────────────────
  
