@@ -1,8 +1,8 @@
 {
-  "name": "EDITH-MD",
-  "description": "Javascript WhatsApp bot powered by Bandaheali",
-  "logo": "https://cdn-bandaheali.zone.id/edith/alive.jpg",
-  "keywords": ["EDITH-MD", "WhatsApp Bot", "Bandaheali"],
+  "name": "MARCO MALIK-MD",
+  "description": "Javascript WhatsApp bot powered by MARCO MALIK",
+  "logo": "https://i.ibb.co/QFvXjtgf/file-00000000b7607208b3cf2ed83cb20148.png",
+  "keywords": ["MARCO MALIK-MD", "WhatsApp Bot", "MARCO MALIK"],
   "success_url": "/",
   "stack": "container",
   "env": {
