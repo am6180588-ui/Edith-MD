@@ -1,12 +1,12 @@
 {
-  "name": "EDITH-MD",
+  "name": "MARCO MALIK-MD",
   "version": "1.0.0",
-  "description": "WhatsApp Bot created By Bandaheali.",
+  "description": "WhatsApp Bot created By MARCO MALIK.",
   "main": "index.js",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name EDITH-MD",
-    "stop": "pm2 stop EDITH-MD",
-    "restart": "pm2 restart EDITH-MD"
+    "stop": "pm2 stop MARCO MALIK-MD",
+    "restart": "pm2 restart MARCO MALIK-MD"
   },
   "keywords": [
     "edith-md",
