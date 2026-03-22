@@ -4,7 +4,7 @@
   "description": "WhatsApp Bot created By MARCO MALIK.",
   "main": "index.js",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name EDITH-MD",
+    "start": "pm2 start index.js --deep-monitoring --attach --name MARCO MALIK-MD",
     "stop": "pm2 stop MARCO MALIK-MD",
     "restart": "pm2 restart MARCO MALIK-MD"
   },
